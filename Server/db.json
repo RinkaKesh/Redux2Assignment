@@ -1,0 +1,15 @@
+{
+    "todos":[{ "id":1,
+    "title":"html",
+    "status":true
+
+    },{"id":2,
+    "title":"css",
+    "status":true
+
+    },{"id":1,
+    "title":"js",
+    "status":false
+
+    }]
+}
